@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+    <link href="./css/styles.css"  rel="stylesheet" type="text/css">
+
+    
+</head>
+
+<body>
+    <div>
+        <div class="banner_image">
+            <img src="./img/banner.jpeg">
+        </div>
+    </div> 
+    <div class="content">
+        <div class="info">
+            <div class="info_tile">
+                <h2>TEAM</h2>
+                <p>FaCompilers</p>
+            </div>
+            <div class="info_tile">
+                <h2>CLIENT</h2>
+                <p>RenuLogix</p>
+            </div>
+            <div class="info_tile">
+                <h2>ADVISER</h2>
+                <p>Prof. Chris Grove</p>
+            </div>
+        </div>
+        <br>
+        <br>
+        <div class="back-info">
+            <div class="back_tile">
+                <h2>BACKGROUND</h2>
+                <br>
+                <p>RenuLogix is a solar startup that serves as a platform for installers to create/manage their residential solar projects, and is an end-to-end online solar platform to help solar installers offer better services to their customers.</p>
+            </div>
+        </div>
+        <div class="scope-info">
+            <div class="scope_tile">
+                <h2>SCOPE</h2>
+                <p>Building a UI experience will allow import of high resolution imagery, properly report system to generate top view building roof lines to analyze, draw and spec solar systems. Some of the software features will provide the ability to import high resolution imagery to generate a top view of building roof lines which would allow the algorithms to analyze, draw and spec solar systems.</p>
+            </div>
+             <div class="scope_tile">
+                <h2>SOLUTION</h2>
+                <p>In order to address the issue of accuracy, our solution is to rely on different API's including EaglieView and NREL to provide dimensions of roof and amount of sunhours that will be used to calcute solar installation cost.</p>
+            </div>
+        </div>
+        <div class="high-info">
+            <div class="highlight-tile">
+                <h2>HIGHLIGHT</h2>
+                <p>Our project aims to allow UI experience will allow report system to generate top view building roof lines relying on different API and allow users to select which roof to be used.</p>
+            </div>
+        </div>
+
+        <div class="prototype">
+               <h2>PROTOTYPE</h2>
+            <div class="prototype-tile">
+                <img src="./img/landing.png">
+            </div>
+            <div class="prototype-tile">
+                <img  src="./img/survey.png">
+            </div>
+        </div>
+         <div class="timeline">
+            <div class="timeline-tile">
+                <h2>TIMELINE</h2>
+                <p>1) To familiarize with eagleview  and its documentation regarding calling the api </p>
+                <p>2) To further develop flying donut by adding investigation bucket for future investigation of issues that mights arise and add there solution</p>
+                <p> &emsp;Adding more detailed features and possible refinement of old features depending on future findings for agile developlment
+                <p>3) Test for image mapping / image selection depending on if its part of eagle or not </p>
+                <p>4) Refine API calls and the data retrieved from it to the relevant data required for calculations</p>
+                <p>5) Test converting all the data on the webpage into pdf downloadable format for offline usage</p>
+                <p>6) Start testing all features and debugging process</p>
+                <p>7) Refine the UI for easier and smooth user experience with no technical issue</p>
+            </div>
+        </div>
+        <div class="team-members">
+            <div class="team-members-tile">
+                <h2>TEAM MEMBERS</h2>
+                <p>Palvinder Singh</p>
+                <p>Sharnpreet Singh</p>
+                <p>Maryam Siddique</p>
+                <p>Jianliang Luo</p>
+                <p>Kimia Arad</p>
+                <p>Youser Alalusi</p>
+                <p>Yusran Sadman</p>
+                <p>Ryon Faroughi</p>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

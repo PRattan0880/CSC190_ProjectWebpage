@@ -1,0 +1,113 @@
+*{
+	margin:  auto;
+}
+
+.banner_image {
+	max-width:  100%;
+}
+
+.banner_image img{
+	object-fit: cover;
+	max-height: 400px;
+	width: 100%;
+}
+
+.info {
+	width:  80%;
+	height:  100px;
+	/*border:  2px solid green;*/
+	display: flex;
+}
+.info_tile {
+	padding-top:  10px;
+	/*border:  2px solid red;*/
+	width:  40%;
+	height:  80px;
+	text-align: center;
+	line-height: 40px;
+}
+
+.back_tile {
+	/*border:  2px solid red;*/
+	text-align: center;
+	line-height: 30px;
+}
+
+.scope_tile {
+	/*border:  2px solid red;*/
+	text-align: center;
+	line-height: 30px;
+	width: 50%;
+	height:  200px;
+}
+
+.scope-info {
+	width:  80%;
+	height:  200px;
+	/*border:  2px solid green;*/
+	display: flex;
+}
+
+.back-info {
+	width:  80%;
+	height:  200px;
+	/*border:  2px solid green;*/
+	display: flex;
+}
+
+.high-info {
+	width:  80%;
+	height:  120px;
+	/*border:  2px solid green;*/
+	display: flex;
+}
+
+.highlight-tile {
+	/*border:  2px solid red;*/
+	text-align: center;
+	line-height: 30px;
+}
+
+.prototype {
+	width:  80%;
+	/*height:  200px;*/
+  	text-align: center;
+	/*border:  2px solid green;*/
+}
+.prototype-tile {
+	/*border:  2px solid red;*/
+	width: 80%;
+}
+
+.prototype-tile img{
+	width:80%; 
+	text-align: center;
+	line-height: 30px;
+	object-fit: contain;
+	/*border:  2px solid blue;*/
+}
+
+.timeline {
+	padding-top: 20px;
+	width:  80%;
+	/*border:  2px solid green;*/
+	display: flex;
+}
+
+.timeline-tile h2{
+	text-align: center;
+}
+.timeline-tile {
+	line-height: 30px;
+}
+
+.team-members {
+	padding-top: 20px;
+	width:  80%;
+	height:  150px;
+	display: flex;
+}
+.team-members-tile p{
+	text-align: center;
+	font-size: 20px;
+}
